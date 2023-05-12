@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<widget id="CKEditorForMendix.widget.CKEditorForMendix" needsEntityContext="true" xmlns="http://www.mendix.com/widget/1.0/">
+<widget id="CKEditorForMendix.widget.CKEditorForMendix" needsEntityContext="true" xmlns="http://www.mendix.com/widget/1.0/" offlineCapable="true">
     <name>CKEditor for Mendix</name>
     <description>The CKEditor WYSIWYG online HTML editor.</description>
 
